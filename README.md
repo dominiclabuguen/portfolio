@@ -6,9 +6,9 @@ includes:
 
 transcripts
 
-extracurriculars { karate, piano, music production }
+extracurriculars 
 
-cs projects { harmony, ataraxia }
+cs projects 
 
 and anything else i make
 
