@@ -12,4 +12,3 @@ cs projects
 
 and anything else i make
 
-ty for sticking around :)
