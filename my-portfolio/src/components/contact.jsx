@@ -1,6 +1,9 @@
 import React from 'react';
 import Title from './Title';
 
+//completely revamp this contact thing to make it look cool 
+
+
 function Contact() {
    return (
       <div className="flex flex-col mb-10 mx-auto">
@@ -33,7 +36,7 @@ function Contact() {
                   type="button"
                   className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
                >
-                  Work With Me
+                  send a message!
                </button>
             </form>
          </div>
