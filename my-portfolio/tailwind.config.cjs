@@ -6,6 +6,10 @@ module.exports = {
 			fontFamily: {
 				inter: ['inter', 'serif'],
 			},
+			colors: {
+				'purple': '#201330',
+				'light-purple': '#b89cdb',
+			},
 		},
 	},
 	plugins: [],

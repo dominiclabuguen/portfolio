@@ -6,18 +6,18 @@ function Intro() {
          <h1 className="text-4xl md:text-5xl dark:text-white mb-1 md:mb-3 font-bold">Dominic Labuguen</h1>
          <p className="text-base md:text-xl mb-3 font-medium">Student, Full Stack Developer, Musician</p>
          <p className="text-sm max-w-xl mb-6 font-bold">
-            I am a home schooler, full stack developer, and musician.
+            Nice to meet you! 
             <br />
-            add something useful here lol{' '}
+            {/* add something useful here lol{' '} */}
             <a
                href=" " //add something here
                target="_blank"
                className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                rel="noreferrer noopener"
             >
-               link
+               {/* add a link here */}
             </a>{' '}
-            add something useful here
+            {/* add something useful here */}
          </p>
       </div>
    )

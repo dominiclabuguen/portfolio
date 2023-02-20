@@ -16,11 +16,6 @@ export default [
         imgUrl: '', //none yet, add
         stack: ['Ableton', 'Music', 'Movie'],
         link: 'https://google.com',
-    },
-    {
-        title: 'Add',
-        imgUrl: '', //none yet, add
-        stack: ['Ableton', 'Music', 'Movie'],
-        link: 'https://google.com',
     }
+    
  ]
