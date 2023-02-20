@@ -19,6 +19,14 @@ function TimelineItem({ year, title, duration, details }) {
             <p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400">
                {details}
             </p>
+            <a
+               href=" " //add something here
+               target="_blank"
+               className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
+               rel="noreferrer noopener"
+            >
+               {/* add a link name here */}
+            </a>{' '} {/* ADD A LINK */}
          </li>
       </ol>
    )

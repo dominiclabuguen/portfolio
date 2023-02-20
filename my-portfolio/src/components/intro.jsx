@@ -15,7 +15,7 @@ function Intro() {
                className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                rel="noreferrer noopener"
             >
-               {/* add a link here */}
+               {/* add a link name here */}
             </a>{' '}
             {/* add something useful here */}
          </p>

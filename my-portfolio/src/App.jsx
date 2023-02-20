@@ -62,6 +62,8 @@ function App() {
 		</svg>
 	);
 
+
+	//fix the dark-mode smoothness and button transition 
   return (
 	<>
 		<button
