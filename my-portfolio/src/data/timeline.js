@@ -6,7 +6,7 @@ export default [
         title: 'new branches',
         duration: '1 month',
         details:
-            'I am learning how to make both web and mobile applications and hope to expand on my own projects, Ataraxia and Harmony.',
+            'I am learning how to make both web and mobile applications and hope to expand on my own projects, Ataraxia and Harmony. I am also working on building this portfolio website.',
     },
     {
         year: '2022',
