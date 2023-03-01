@@ -6,9 +6,9 @@ function Intro() {
          <h1 className="text-4xl md:text-5xl dark:text-white mb-1 md:mb-3 font-bold">Dominic Labuguen</h1>
          <p className="text-base md:text-xl mb-3 font-medium">Student, Full Stack Developer, Musician</p>
          <p className="text-sm max-w-xl mb-6 font-bold">
-            Nice to meet you! 
+            Nice to meet you! I am 17 years old and from San Francisco.
             <br />
-            {/* add something useful here lol{' '} */}
+            {}
             <a
                href=" " //add something here
                target="_blank"
