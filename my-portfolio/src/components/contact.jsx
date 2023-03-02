@@ -36,7 +36,7 @@ function Contact() {
                   type="button"
                   className="text-center inline-block px-3 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-blue-500 to-pink-500 drop-shadow-md hover:stroke-white"
                >
-                  send a message!
+                  send your message!
                </button>
             </form>
          </div>
